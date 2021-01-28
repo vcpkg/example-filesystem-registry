@@ -1,2 +1,6 @@
 {
+  "2021-01-27": {
+    "beicode": { "baseline": "1.0.0", "port-version": 0 },
+    "beison": { "baseline": "1.0.0", "port-version": 0 }
+  }
 }
