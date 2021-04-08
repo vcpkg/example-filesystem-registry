@@ -1,8 +1,13 @@
 {
   "versions": [
     {
+      "version": "1.0.1",
+      "path": "$/ports/beison/1.0.1"
+    },
+    {
       "version": "1.0.0",
       "path": "$/ports/beison/1.0.0"
     }
   ]
+>>>>>>> baa1641 ([2021-04-27] update beison to 1.0.1)
 }
